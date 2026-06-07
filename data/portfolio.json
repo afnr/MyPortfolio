@@ -1,0 +1,137 @@
+{
+  "name": "afnr",
+  "headerTaglineOne": "Hi ! I'm Afina Rosli,",
+  "headerTaglineTwo": "a second-year Software Engineering student at Multimedia University,",
+  "headerTaglineThree": "passionate and curious in software development, design and testing,",
+  "headerTaglineFour": "currently based in Cheras, Kuala Lumpur.",
+  "darkMode": true,
+  "socials": [
+    {
+      "id": "1",
+      "title": "Github",
+      "link": "https://github.com/afnr"
+    },
+    {
+      "id": "2",
+      "title": "LinkedIn",
+      "link": "https://www.linkedin.com/in/haifa-afina-rosli-7052a5248/"
+    }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "title": "Event Marketplace",
+      "description": "A Java Swing desktop application for university event management, ticket purchasing, and QR-based ticket scanning.",
+      "year": "2026",
+      "imageSrc": "https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+      "url": "https://github.com/afnr/EventMarketplace",
+      "date": "2026"
+    },
+    {
+      "id": "2",
+      "title": "Receipt Scanner",
+      "description": "An intelligent Streamlit web application that uses the Gemini 2.5 Flash multimodal model to scan receipt images and automatically populate an editable web form with the extracted data.",
+      "year": "2026",
+      "imageSrc": "https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60",
+      "url": "https://github.com/afnr/ReceiptScanner",
+      "date": "2026"
+    },
+    {
+      "id": "3",
+      "title": "Parking Lot Management System",
+      "year": "2026",
+      "description": "A Java Swing desktop application featuring a custom GUI for revenue and occupancy tracking, automated data flow visualization, and unpaid fine management built on scalable architecture design patterns.",
+      "imageSrc": "https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60",
+      "url": "https://github.com/afnr/ParkingLotManagementSystem",
+      "date": "2026"
+    },
+    {
+      "id": "4",
+      "title": "Multiplayer Hybrid Concurrency Game",
+      "description": "A concurrent logging system featuring atomic updates and signal handling to ensure thread-safe data persistence and game scoring.",
+      "year": "2026",
+      "imageSrc": "https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+      "url": "https://github.com/afnr/Multiplayer-TicTacToe",
+      "date": "2026"
+    },
+    {
+      "id": "5",
+      "title": "Robot Battlefield Simulator",
+      "description": "A grid-based simulation application utilizing class inheritance for specialized robots, featuring a custom battlefield manager and turn execution engine for movement validation and real-time event logging.",
+      "year": "2025",
+      "imageSrc": "https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+      "url": "",
+      "date": "2025"
+    },
+    {
+      "id": "6",
+      "title": "Hostel Management System (HORECA)",
+      "description": "A web-based maintenance management system for hostel damages featuring an automated PHP email notification module to provide real-time ticket status updates to complainants and administrators.",
+      "year": "2022",
+      "imageSrc": "https://images.unsplash.com/photo-1534239143101-1b1c627395c5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NzZ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+      "url": "",
+      "date": "2022"
+    },
+    {
+      "id": "7",
+      "title": "Ramadan Guide",
+      "description": "A collaborative frontend website designed for optimal user experience, featuring interactive Google Maps integration to pin and filter mosques based on user preferences.",
+      "year": "2022",
+      "imageSrc": "https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60",
+      "url": "",
+      "date": "2022"
+    }
+  ],
+  "aboutpara": "A dedicated Software Engineering student with experience in software testing and development. Focused on building reliable systems using PHP and C++, supported by intermediate certifications and hands-on internship experience. Successfully applied design patterns and concurrency models to complex academic projects. Committed to continuous self-improvement, solving technical problems and collaborating in diverse team environments. Trilingual in Malay, English and German. Seeking an internship opportunity from 27th July - 18th October 2026.",
+  "resume": {
+    "tagline": "I'm a student of software engineering, designer, and sometimes can be a tester too (when things get tough).",
+    "description": "I believe every jobs and careers are beneficial to everyone. And it is actually my one and only dream to develop a system that can help people in their daily life.",
+    "experiences": [
+      {
+        "id": "1",
+        "dates": "Jan 2020 - May 2023",
+        "type": "Intern",
+        "position": "PHP Developer at Webby Group",
+        "bullets": [
+          "Full-Stack Development & Design Integration: Spearheaded the end-to-end development of administrative modules across 5 diverse projects, successfully translating complex Figma prototypes into functional, responsive front-end interfaces using PHP.",
+          "Live System Maintenance & Optimization: Entrusted with the maintenance of a high-traffic, live production system, proactively debugged client-reported issues, deployed new feature enhancements, and ensured 100% system uptime.",
+          "Cross-Functional Collaboration: Demonstrated high adaptability by supporting multiple development teams, contributing to rapid feature deployment and rigorous testing phases to ensure project deliverables met client specifications and documentation standards."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "id": "1",
+        "universityName": "Multimedia University",
+        "universityDate": "2024-Present",
+        "universityPara": "Bachelor of Computer Science (Hons.) in Software Engineering"
+      },
+      {
+        "id": "2",
+        "universityName": "German-Malaysian Institute",
+        "universityDate": "2020-2023",
+        "universityPara": "Diploma in Software Engineering (Software Testing)"
+      }
+    ],
+    "languages": [
+      "Java",
+      "C++",
+      "C",
+      "PHP",
+      "Javascript",
+      "HTML5",
+      "CSS",
+      "Python"
+    ],
+    "frameworks": [
+      "Laravel",
+      "React",
+      "Typescript",
+      "NodeJs"
+    ],
+    "others": [
+      "Figma",
+      "Canva"
+    ]
+  }
+}

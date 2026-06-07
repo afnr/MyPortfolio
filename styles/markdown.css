@@ -1,0 +1,82 @@
+/* Markdown Styling */
+
+/* Markdown Container */
+
+.markdown-class {
+  @apply mt-5 p-5;
+}
+
+/* Headings */
+
+.markdown-class h1 {
+  @apply mt-5 text-2xl font-bold tracking-tight;
+}
+.markdown-class h2 {
+  @apply mt-5 text-xl font-bold tracking-tight;
+}
+.markdown-class h3 {
+  @apply mt-5 text-lg font-semibold;
+}
+.markdown-class h4 {
+  @apply mt-5 text-base font-semibold;
+}
+.markdown-class h5 {
+  @apply mt-5 text-sm font-semibold;
+}
+.markdown-class h6 {
+  @apply mt-5 text-xs font-semibold uppercase tracking-wider;
+}
+
+.markdown-class a {
+  @apply opacity-80 font-bold text-sm underline transition-all duration-200 ease-out hover:opacity-100;
+}
+
+.markdown-class p {
+  @apply mt-2 opacity-75 leading-6 font-normal text-sm tracking-wide;
+}
+
+.markdown-class strong {
+  @apply font-bold;
+}
+
+.markdown-class hr {
+  @apply my-5;
+}
+
+
+
+/* Markdown Lists */
+
+.markdown-class ol {
+  @apply mt-3 ml-5;
+}
+
+.markdown-class ol li {
+  @apply text-sm opacity-75 list-decimal leading-6 tracking-wide;
+}
+
+.markdown-class ul {
+  @apply mt-3 ml-5;
+}
+
+.markdown-class ul li {
+  @apply text-sm opacity-75 list-disc leading-6 tracking-wide;
+}
+
+/* BlockQuote */
+
+.markdown-class blockquote {
+  @apply p-4 border-l-4 rounded-md text-xs bg-slate-100 text-neutral-800;
+}
+
+.markdown-class blockquote p {
+  @apply text-neutral-800 text-xs;
+}
+
+
+
+/* Image */
+
+.markdown-class img {
+  @apply max-h-80 w-full my-5 object-cover rounded-md shadow-md;
+}
