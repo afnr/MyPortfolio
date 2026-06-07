@@ -23,63 +23,56 @@
       "title": "Event Marketplace",
       "description": "A Java Swing desktop application for university event management, ticket purchasing, and QR-based ticket scanning.",
       "year": "2026",
-      "imageSrc": "https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "https://github.com/afnr/EventMarketplace",
-      "date": "2026"
+      "url": "https://github.com/afnr/EventMarketplace"
     },
     {
       "id": "2",
       "title": "Receipt Scanner",
-      "description": "An intelligent Streamlit web application that uses the Gemini 2.5 Flash multimodal model to scan receipt images and automatically populate an editable web form with the extracted data.",
+      "description": "A Streamlit web application that uses the Gemini 2.5 Flash model to extract receipt data and automatically populate an editable web form.",
       "year": "2026",
-      "imageSrc": "https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "https://github.com/afnr/ReceiptScanner",
-      "date": "2026"
+      "url": "https://github.com/afnr/ReceiptScanner"
     },
     {
       "id": "3",
       "title": "Parking Lot Management System",
       "year": "2026",
-      "description": "A Java Swing desktop application featuring a custom GUI for revenue and occupancy tracking, automated data flow visualization, and unpaid fine management built on scalable architecture design patterns.",
-      "imageSrc": "https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "https://github.com/afnr/ParkingLotManagementSystem",
-      "date": "2026"
+      "description": "A Java Swing desktop application featuring a custom GUI for tracking revenue/occupancy, visualizing data flow, and managing unpaid fines.",
+      "url": "https://github.com/afnr/ParkingLotManagementSystem"
     },
     {
       "id": "4",
       "title": "Multiplayer Hybrid Concurrency Game",
-      "description": "A concurrent logging system featuring atomic updates and signal handling to ensure thread-safe data persistence and game scoring.",
+      "description": "A concurrent C logging system featuring atomic updates and signal handling to ensure thread-safe data persistence and game scoring.",
       "year": "2026",
-      "imageSrc": "https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "https://github.com/afnr/Multiplayer-TicTacToe",
-      "date": "2026"
+      "url": "https://github.com/afnr/Multiplayer-TicTacToe"
     },
     {
       "id": "5",
       "title": "Robot Battlefield Simulator",
-      "description": "A grid-based simulation application utilizing class inheritance for specialized robots, featuring a custom battlefield manager and turn execution engine for movement validation and real-time event logging.",
+      "description": "A C++ grid-based simulation application featuring class inheritance for specialized robots, a custom battlefield manager, and a turn execution engine for movement validation.",
       "year": "2025",
-      "imageSrc": "https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "",
-      "date": "2025"
+      "url": ""
     },
     {
       "id": "6",
       "title": "Hostel Management System (HORECA)",
-      "description": "A web-based maintenance management system for hostel damages featuring an automated PHP email notification module to provide real-time ticket status updates to complainants and administrators.",
+      "description": "A web-based maintenance management system for tracking hostel damages and providing automated email notifications to complainants and administrators.",
       "year": "2022",
-      "imageSrc": "https://images.unsplash.com/photo-1534239143101-1b1c627395c5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NzZ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "",
-      "date": "2022"
+      "url": ""
     },
     {
       "id": "7",
       "title": "Ramadan Guide",
-      "description": "A collaborative frontend website designed for optimal user experience, featuring interactive Google Maps integration to pin and filter mosques based on user preferences.",
+      "description": "A collaborative frontend website with integrated Google Maps that allows users to select from a pre-defined list of mosques to easily view distances and get directions from their location.",
       "year": "2022",
-      "imageSrc": "https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "",
-      "date": "2022"
+      "url": "https://github.com/afnr/ramadanGuide"
+    },
+    {
+      "id": "8",
+      "title": "Seminar Management System",
+      "description": "A role-based Java Swing application featuring a three-tier architecture for automated academic grading, student filtering, and flat-file data persistence.",
+      "year": "2026",
+      "url": "https://github.com/afnr/SeminarManagement"
     }
   ],
   "aboutpara": "A dedicated Software Engineering student with experience in software testing and development. Focused on building reliable systems using PHP and C++, supported by intermediate certifications and hands-on internship experience. Successfully applied design patterns and concurrency models to complex academic projects. Committed to continuous self-improvement, solving technical problems and collaborating in diverse team environments. Trilingual in Malay, English and German. Seeking an internship opportunity from 27th July - 18th October 2026.",

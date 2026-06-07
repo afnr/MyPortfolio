@@ -102,11 +102,8 @@ const Edit = () => {
           id: newId,
           title: "New Project",
           description: "Web Design & Development",
-          imageSrc:
-            "https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?auto=format&fit=crop&w=400&q=60",
-          url: "http://github.com/afnr/",
           year: "2026",
-          date: "2026",
+          url: "http://github.com/afnr/"
         },
       ],
     });
@@ -340,6 +337,11 @@ const Edit = () => {
         {/* PROJECTS TAB */}
         {currentTabs === "PROJECTS" && (
           <>
+            <div className="my-10">
+              <Button onClick={addProject} classes={interactiveActionBtnStyles}>
+                Add Project +
+              </Button>
+            </div>
             <div className="mt-10">
               {data.projects.map((project, index) => (
                 <div className="mt-10 border-t pt-6 first:border-0 first:pt-0" key={project.id || index} id={`project-block-${project.id}`}>
@@ -368,15 +370,6 @@ const Edit = () => {
                     />
                   </div>
                   <div className="flex items-center mt-2">
-                    <label className="w-1/5 text-lg opacity-50">Image Source</label>
-                    <input
-                      value={project.imageSrc}
-                      onChange={(e) => editProjects(index, { ...project, imageSrc: e.target.value })}
-                      className={`w-4/5 ml-10 p-2 rounded-md shadow-lg ${inputThemeStyles}`}
-                      type="text"
-                    />
-                  </div>
-                  <div className="flex items-center mt-2">
                     <label className="w-1/5 text-lg opacity-50">URL</label>
                     <input
                       value={project.url}
@@ -398,11 +391,6 @@ const Edit = () => {
                   <hr className="my-10" />
                 </div>
               ))}
-            </div>
-            <div className="my-10">
-              <Button onClick={addProject} classes={interactiveActionBtnStyles}>
-                Add Project +
-              </Button>
             </div>
           </>
         )}

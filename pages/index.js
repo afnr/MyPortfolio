@@ -130,7 +130,6 @@ export default function Home() {
                 {groupedProjects[year].map((project) => (
                   <div key={project.id} className="w-full md:w-[calc(33.333%-1.5rem)] max-w-[400px] flex">
                     <WorkCard
-                      img={project.imageSrc}
                       name={project.title}
                       description={project.description}
                       onClick={() => window.open(project.url)}
