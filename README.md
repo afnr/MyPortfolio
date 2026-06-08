@@ -1,7 +1,7 @@
 My Personal Portfolio
 Welcome to my personal portfolio! This site is built to showcase my projects, experience, and skills as a Software Engineering student.
 
-View Live Site : 
+View Live Site : https://afnr.vercel.app/
 
 ### About This Project
 I built this portfolio using Next.js and TailwindCSS, focusing on a clean, responsive, and minimalist design. It serves as a space to document my journey as a developer, highlighting my progress through university and my ongoing projects.
